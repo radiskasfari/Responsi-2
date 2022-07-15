@@ -1,0 +1,6 @@
+D:\Mata kuliah\Semester 2\pemrograman\Responsi 2\ProjectMahasiswa\ProjectMahasiswa\bin\Debug\ProjectMahasiswa.exe.config
+D:\Mata kuliah\Semester 2\pemrograman\Responsi 2\ProjectMahasiswa\ProjectMahasiswa\bin\Debug\ProjectMahasiswa.exe
+D:\Mata kuliah\Semester 2\pemrograman\Responsi 2\ProjectMahasiswa\ProjectMahasiswa\bin\Debug\ProjectMahasiswa.pdb
+D:\Mata kuliah\Semester 2\pemrograman\Responsi 2\ProjectMahasiswa\ProjectMahasiswa\obj\Debug\ProjectMahasiswa.csprojResolveAssemblyReference.cache
+D:\Mata kuliah\Semester 2\pemrograman\Responsi 2\ProjectMahasiswa\ProjectMahasiswa\obj\Debug\ProjectMahasiswa.exe
+D:\Mata kuliah\Semester 2\pemrograman\Responsi 2\ProjectMahasiswa\ProjectMahasiswa\obj\Debug\ProjectMahasiswa.pdb
